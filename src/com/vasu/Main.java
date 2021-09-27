@@ -8,5 +8,6 @@ public class Main {
         int j=20;
         int k= i+j;
         System.out.println(k);
+        System.out.println("hello Git");
     }
 }
